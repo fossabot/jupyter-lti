@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/IllumiDesk/jupyter-lti.svg?branch=master)](https://travis-ci.org/IllumiDesk/jupyter-lti)
 [![npm version](http://img.shields.io/npm/v/@illumidesk/jupyter-lti.svg?style=flat)](https://npmjs.org/package/@illumidesk/jupyter-lti 'View this project on npm')
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIllumiDesk%2Fjupyter-lti.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FIllumiDesk%2Fjupyter-lti?ref=badge_shield)
 
 # jupyterlab-lti
 
@@ -63,3 +64,7 @@ jupyter lab
 Only users with the `Student` role are able to see the extension and submit an assignemt to the Canvas LMS.
 
 [These help docs](https://docs.illumidesk.com) contain more information about the Canvas LMS and IllumiDesk configuration steps.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIllumiDesk%2Fjupyter-lti.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FIllumiDesk%2Fjupyter-lti?ref=badge_large)
